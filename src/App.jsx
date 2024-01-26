@@ -72,7 +72,6 @@ function App() {
   return (
     <>
       <Container>
-
         <Image src={ImgCripto} alt='Imagen CriptoMoneda' />
         <div>
           <Heading>Cotiza Criptomonedas al Instante</Heading>
